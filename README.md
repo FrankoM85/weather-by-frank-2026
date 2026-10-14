@@ -1,6 +1,6 @@
 # WEATHER by Frank
 
-_A personal React project exploring weather data through a clean, interactive interface._
+*A personal React project exploring weather data through a clean, interactive interface.*
 
 WEATHER by Frank is a responsive weather application built with React, JavaScript, Vite, and the [Open-Meteo API](https://open-meteo.com/).
 
@@ -8,9 +8,13 @@ The project originally started as a rebuild of one of my earlier React applicati
 
 My goal was to create an application that feels simple and intuitive while exploring responsive design, live weather data, and interactive UI elements.
 
+## Live Demo
+
+[**Check the Weather**](https://frankom85.github.io/weather-by-frank-2026/)
+
 ## Preview
 
-_Screenshots coming soon._
+*Screenshots coming soon.*
 
 ## Features
 
@@ -47,6 +51,7 @@ _Screenshots coming soon._
 - **BigDataCloud API** — Reverse geocoding for device location
 - **Oxlint** — Code quality checks
 - **Node.js Test Runner** — Automated functionality tests
+- **GitHub Actions & GitHub Pages** — Automated build and deployment
 
 ## What I Focused On
 
@@ -167,4 +172,4 @@ This is an independent, non-commercial project created for learning and portfoli
 
 ---
 
-_Built with curiosity, patience, and attention to the little details._
+*Built with curiosity, patience, and attention to the little details.*
