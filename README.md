@@ -14,7 +14,15 @@ My goal was to create an application that feels simple and intuitive while explo
 
 ## Preview
 
-*Screenshots coming soon.*
+<a href="screenshots/desktop-widget.webp">
+  <img src="screenshots/desktop-widget.webp" alt="WEATHER by Frank - Desktop Widget" width="260">
+</a>
+<a href="screenshots/desktop-dashboard.webp">
+  <img src="screenshots/desktop-dashboard.webp" alt="WEATHER by Frank - Expanded Dashboard" width="260">
+</a>
+<a href="screenshots/mobile-widget.webp">
+  <img src="screenshots/mobile-widget.webp" alt="WEATHER by Frank - Mobile View" width="140">
+</a>
 
 ## Features
 
